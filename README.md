@@ -54,9 +54,18 @@ Knowledgeable about scalable cloud infrastructures on AWS, working closely with 
 
 ### WordPress Ecosystem
 - 🔌 **[MVC Plugin Boilerplate for WordPress](https://github.com/sumitpore/mvc-plugin-boilerplate-for-wordpress)** - Clean MVC architecture for WordPress plugins
-- 🔔 **[Chrome Extension: Notify on Master Changes](https://github.com/sumitpore/chrome-extension-notify-when-master-changes)** - Get notified when master branch updates
+- 🏷️ **[Primary Category for Posts](https://github.com/sumitpore/primary-cat-for-posts)** - Set primary category/taxonomy for WordPress posts & CPTs
 
-### SOLID Principles Practical Guide
+### JavaScript & Web
+- 🎛️ **[Just Enough](https://github.com/sumitpore/just-enough)** - Lightweight library for managing UI state without dependencies
+- 💬 **[WebSockets Chat](https://github.com/sumitpore/websockets-chat)** - Real-time chat implementation using WebSockets
+- ⚡ **[Minimalist Reactivity](https://github.com/sumitpore/minimalist-reactivity-demo)** - Build your own reactive data-binding in vanilla JavaScript
+
+### Browser Extensions
+- 🔔 **[Notify on Master Changes](https://github.com/sumitpore/chrome-extension-notify-when-master-changes)** - Get notified when GitHub master branch updates
+- 📥 **[Export Object as JSON](https://github.com/sumitpore/chrome-extension-download-object-as-json)** - Download any JavaScript object as a JSON file
+
+### Software Engineering
 - 📐 **[SOLID Principles](https://github.com/sumitpore/solid-principles)** - SOLID Principles with PHP examples
 
 ## 💼 Experience
