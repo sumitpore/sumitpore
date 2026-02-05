@@ -53,7 +53,7 @@ Knowledgeable about scalable cloud infrastructures on AWS, working closely with 
 - 📚 **[Manga Weaver AI](https://github.com/sumitpore/Manga-Weaver-AI)** - Generate Manga/Anime using AI
 
 ### WordPress Ecosystem
-- 🔌 **[MVC Plugin Boilerplate for WordPress](https://github.com/sumitpore/mvc-plugin-boilerplate-for-wordpress)** - Clean MVC architecture for WordPress plugins ⭐ 180+
+- 🔌 **[MVC Plugin Boilerplate for WordPress](https://github.com/sumitpore/mvc-plugin-boilerplate-for-wordpress)** - Clean MVC architecture for WordPress plugins
 - 🔔 **[Chrome Extension: Notify on Master Changes](https://github.com/sumitpore/chrome-extension-notify-when-master-changes)** - Get notified when master branch updates
 
 ### SOLID Principles Practical Guide
