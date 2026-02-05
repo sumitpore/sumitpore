@@ -96,7 +96,7 @@ Knowledgeable about scalable cloud infrastructures on AWS, working closely with 
 ## 📜 Certifications
 
 **🤖 AI/ML**
-- **Hands-on Approach to AI for Real-World Applications** — IIT Kharagpur AI4ICPS I Hub Foundation
+- **Hands-on Approach to AI for Real-World Applications** — IIT Kharagpur AI4ICPS I Hub Foundation   
   *Certificate of Achievement + Certificate of Merit | Skills: NLP, ML, Deep Learning, LLMs, Generative AI*
 
 **💻 Web Development**
