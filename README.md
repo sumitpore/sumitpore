@@ -40,6 +40,7 @@ Knowledgeable about scalable cloud infrastructures on AWS, working closely with 
 ## 🚀 Featured Projects
 
 ### AI & Automation
+- 🛃 **[Team of Agents Skill](https://github.com/sumitpore/team-of-agents-skill)** - Orchestrates 13+ specialist agents to deliver projects end-to-end (discovery → design → build → deploy) with Chain-of-Verification, human approval gates, and multi-session state persistence.
 - 🤖 **[MR Code Review Using AI](https://github.com/sumitpore/MRCodeReviewUsingAI)** - Automate code reviews using AI
 - 🎨 **[Crayon UI Agent Skill](https://github.com/sumitpore/crayon-ui-agent-skill)** - Render LLM responses as interactive UI components
 - 🖼️ **[Fal.ai and Imagekit
