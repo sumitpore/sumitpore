@@ -52,6 +52,7 @@ Knowledgeable about scalable cloud infrastructures on AWS, working closely with 
   3D](https://github.com/sumitpore/Memory-Palace-Builder-3D)** - Build memory
   palaces in 3D using AI for enhanced learning
 - 📚 **[Manga Weaver AI](https://github.com/sumitpore/Manga-Weaver-AI)** - Generate Manga/Anime using AI
+- 🚀 **[Wane App](https://github.com/sumitpore/wane-app)** - An Android focus app that blocks distracting apps during timed sessions.
 
 ### WordPress Ecosystem
 - 🔌 **[MVC Plugin Boilerplate for WordPress](https://github.com/sumitpore/mvc-plugin-boilerplate-for-wordpress)** - Clean MVC architecture for WordPress plugins
